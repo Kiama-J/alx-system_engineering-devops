@@ -1,2 +1,2 @@
 #!/bin/bash
-kiki
+paste -d, - - | cut -d, -f1
