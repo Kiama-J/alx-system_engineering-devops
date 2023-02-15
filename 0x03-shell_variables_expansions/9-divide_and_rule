@@ -1,2 +1,2 @@
 #!/bin/bash
-dkdk
+echo $(( $POWER / $DIVIDE ))
