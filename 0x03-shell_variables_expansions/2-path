@@ -1,2 +1,2 @@
 #!/bin/bash
-hdd
+PATH=$PATH:/action
